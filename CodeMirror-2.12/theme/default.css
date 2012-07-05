@@ -1,0 +1,25 @@
+.cm-s-default {background-color: #293134;}
+.CodeMirror-gutter {background-color: #3F4B4E; border-right-color:#343F41;}
+.CodeMirror-gutter-text {color:#628A81;}
+.CodeMirror-cursor {border-left-color: white !important; }
+.CodeMirror-matchingbracket { color: #FFCD28 !important; font-weight: bold; }
+.cm-s-default span.cm-keyword {color: #83C763;}
+.cm-s-default span.cm-word {color: #E0E2E4;}
+.cm-s-default span.cm-null {color: #E8E2B7;}
+.cm-s-default span.cm-atom {color: #83C763;}
+.cm-s-default span.cm-number {color: #FFCD28;}
+.cm-s-default span.cm-def {color: #00f;}
+.cm-s-default span.cm-variable {color: black;}
+.cm-s-default span.cm-variable-2 {color: #678CB1;}
+.cm-s-default span.cm-variable-3 {color: #0a5;}
+.cm-s-default span.cm-property {color: black;}
+.cm-s-default span.cm-operator {color: #E8E2B7;}
+.cm-s-default span.cm-comment {color: #66747B;}
+.cm-s-default span.cm-string {color: #EC7615;}
+.cm-s-default span.cm-meta {color: #555;}
+.cm-s-default span.cm-error {color: #f00;}
+.cm-s-default span.cm-qualifier {color: #555;}
+.cm-s-default span.cm-builtin {color: #30a;}
+.cm-s-default span.cm-bracket {color: #cc7;}
+.cm-s-default span.cm-tag {color: #170;}
+.cm-s-default span.cm-attribute {color: #00c;}
